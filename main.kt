@@ -3,3 +3,8 @@ def hw10t():
 		print("Hello world")
 
 hw10t()
+
+def VivaMechMat():
+	print("Viva Mech-mat faculty")
+
+VivaMechMat()
